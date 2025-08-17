@@ -4,7 +4,7 @@
 # Gamedev
 
 **YouTube channels**
- - TODO
+ - 
 
 # Unity
 
@@ -32,7 +32,15 @@
 
 # Gamedev Industry
 
-**Resources for salaries in the Games Industry**
+**Job Hunting**
+ - https://hitmarker.net/
+ - https://www.gamedevmap.com/
+ - https://gamecompanies.com/
+ - https://www.toughbyte.com/
+ - https://www.keywordsstudios.com/
+ - https://www.gamesjobsdirect.com/
+
+**Resources for salaries**
  - https://ingamejob.com/en (Provides salary data for various game roles)
  - https://8bitplay.com/ (Offers salary trends in game development)
  - https://igda.org/ (Publishes industry salary surveys)
@@ -40,3 +48,7 @@
  - https://www.glassdoor.com/ (Features community-driven salary insights)
  - https://pinglestudio.com/ (Analyzes average game developer salaries)
  - https://www.payscale.com/ (Provides salary research for game development)
+
+**Others**
+ - https://www.gamedeveloper.com/
+ - https://www.gameindustrycareerguide.com/blog/
