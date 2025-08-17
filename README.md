@@ -1,31 +1,15 @@
 # game-dev-resources
-
-# Game Dev Resources
 (gathering here all the goods i found over the years)
 
 # Gamedev
-(there is plenty of stuff, but i gradually detached myself from this engine over the years, so i won't post that much here)
 
 **YouTube channels**
  - TODO
-
-**Blogs**
- - TODO
-
-**Other**
- - https://catlikecoding.com/unity/tutorials/ (God given tutorials)
 
 # Unity
-(there is plenty of stuff, but i gradually detached myself from this engine over the years, so i won't post that much here)
 
-**YouTube channels**
- - TODO
-
-**Blogs**
- - TODO
-
-**Other**
- - https://catlikecoding.com/unity/tutorials/ (God given tutorials)
+**Tutorials**
+ - https://catlikecoding.com/unity/tutorials/
 
 # Godot
 
@@ -45,3 +29,14 @@
 **Other**
  - https://godotshaders.com/
  - https://catlikecoding.com/godot/
+
+# Gamedev Industry
+
+**Resources for salaries in the Games Industry**
+ - https://ingamejob.com/en (Provides salary data for various game roles)
+ - https://8bitplay.com/ (Offers salary trends in game development)
+ - https://igda.org/ (Publishes industry salary surveys)
+ - https://www.skillsearch.com/ (Conducts surveys on game industry salaries)
+ - https://www.glassdoor.com/ (Features community-driven salary insights)
+ - https://pinglestudio.com/ (Analyzes average game developer salaries)
+ - https://www.payscale.com/ (Provides salary research for game development)
