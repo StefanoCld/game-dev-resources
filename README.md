@@ -21,6 +21,7 @@
  - [StayAtHomeDev - YouTube](https://www.youtube.com/@stayathomedev)
  - [Outback Nerd - YouTube](https://www.youtube.com/@OutbackNerd/videos)
  - [Slick Games - YouTube](https://www.youtube.com/@stingly)
+ - [Brackeys - Youtube](https://www.youtube.com/user/Brackeys) (has a specific playlist for Godot)
 
 **Blogs**
  - https://www.snopekgames.com/
