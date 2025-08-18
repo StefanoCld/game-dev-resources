@@ -8,7 +8,7 @@
  - [Javidx9 - Youtube](https://www.youtube.com/c/javidx9)
  - [ChiliTomatoNoodle - Youtube](https://www.youtube.com/@ChiliTomatoNoodle)
 
-# <img src="ue_logo.png" alt="ue_logo" width="64"/> Unreal
+# <img src="ue_logo.png" alt="ue_logo" width="64"/> Unreal Engine
 
 **YouTube channels**
  - [PrismaticaDev - Youtube](https://www.youtube.com/c/prismaticadev)
@@ -33,7 +33,7 @@
 **Tutorials**
  - https://catlikecoding.com/unity/tutorials/
 
-# Godot
+# <img src="256px-Godot_icon.svg.png" alt="godot_logo" width="64"/> Godot
 
 **YouTube channels**
  - [Heartbeast - YouTube](https://www.youtube.com/@uheartbeast)
