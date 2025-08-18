@@ -4,7 +4,29 @@
 # Gamedev
 
 **YouTube channels**
- - 
+ - [Sebastian Lague - Youtube](https://www.youtube.com/user/Cercopithecan)
+ - [Javidx9 - Youtube](https://www.youtube.com/c/javidx9)
+ - [ChiliTomatoNoodle - Youtube](https://www.youtube.com/@ChiliTomatoNoodle)
+
+# Unreal
+
+**YouTube channels**
+ - [PrismaticaDev - Youtube](https://www.youtube.com/c/prismaticadev)
+ - [TechArtAid - Youtube](https://www.youtube.com/@TechArtAid)
+ - [VisualTechArt - Youtube](https://www.youtube.com/@VisualTechArt)
+ - [GhislainGirardot - Youtube](https://www.youtube.com/@ghislaingirardot)
+ - [MathewWadsteinTutorials - Youtube](https://www.youtube.com/mathewwadsteintutorials)
+ - [TomLooman - Youtube](https://www.youtube.com/@tom.looman)
+ - [AlexForsythe - Youtube](https://www.youtube.com/@AlexForsythe)
+
+**Others**
+ - https://unreal-garden.com/
+ - https://ari.games/ (Ari Arnbjörnsson)
+ - https://unrealdirective.com/
+ - https://www.tomlooman.com/
+ - https://github.com/Allar/ue5-style-guide
+ - https://cedric-neukirchen.net/
+ - https://unrealartoptimization.github.io/book/
 
 # Unity
 
@@ -23,13 +45,11 @@
  - [Slick Games - YouTube](https://www.youtube.com/@stingly)
  - [Brackeys - Youtube](https://www.youtube.com/user/Brackeys) (has a specific playlist for Godot)
 
-**Blogs**
- - https://www.snopekgames.com/
- - https://kidscancode.org/godot_recipes/4.x/
-
-**Other**
+**Others**
  - https://godotshaders.com/
  - https://catlikecoding.com/godot/
+ - https://www.snopekgames.com/
+ - https://kidscancode.org/godot_recipes/4.x/
 
 # Gamedev Industry
 
