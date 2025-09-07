@@ -51,7 +51,7 @@
  - https://www.snopekgames.com/
  - https://kidscancode.org/godot_recipes/4.x/
 
-# Gamedev Industry
+# :factory: Gamedev Industry
 
 **Job Hunting**
  - https://hitmarker.net/
