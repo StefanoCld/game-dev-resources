@@ -8,7 +8,7 @@
  - [Javidx9 - Youtube](https://www.youtube.com/c/javidx9)
  - [ChiliTomatoNoodle - Youtube](https://www.youtube.com/@ChiliTomatoNoodle)
 
-# <img src="ue_logo.png" alt="ue_logo" width="64"/> Unreal Engine
+# <img src="icons/ue_logo.png" alt="ue_logo" width="64"/> Unreal Engine
 
 **YouTube channels**
  - [PrismaticaDev - Youtube](https://www.youtube.com/c/prismaticadev)
@@ -28,12 +28,12 @@
  - https://cedric-neukirchen.net/
  - https://unrealartoptimization.github.io/book/
 
-# Unity
+# <img src="icons/UnityLogo.png" alt="unity_logo" width="64"/> Unity
 
 **Tutorials**
  - https://catlikecoding.com/unity/tutorials/
 
-# <img src="256px-Godot_icon.svg.png" alt="godot_logo" width="64"/> Godot
+# <img src="icons/256px-Godot_icon.svg.png" alt="godot_logo" width="64"/> Godot
 
 **YouTube channels**
  - [Heartbeast - YouTube](https://www.youtube.com/@uheartbeast)
