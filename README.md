@@ -1,16 +1,17 @@
 # game-dev-resources
-(gathering here all the goods i found over the years)
+:construction: (WIP) - (gathering here all the goods i found over the years)
 
 # Gamedev
 
-**YouTube channels**
+**:red_circle: YouTube channels**
  - [Sebastian Lague - Youtube](https://www.youtube.com/user/Cercopithecan)
  - [Javidx9 - Youtube](https://www.youtube.com/c/javidx9)
  - [ChiliTomatoNoodle - Youtube](https://www.youtube.com/@ChiliTomatoNoodle)
+ - [Acerola - Youtube](https://www.youtube.com/@Acerola_t)
 
 # <img src="icons/ue_logo.png" alt="ue_logo" width="64"/> Unreal Engine
 
-**YouTube channels**
+**:red_circle: YouTube channels**
  - [PrismaticaDev - Youtube](https://www.youtube.com/c/prismaticadev)
  - [TechArtAid - Youtube](https://www.youtube.com/@TechArtAid)
  - [VisualTechArt - Youtube](https://www.youtube.com/@VisualTechArt)
@@ -19,23 +20,24 @@
  - [TomLooman - Youtube](https://www.youtube.com/@tom.looman)
  - [AlexForsythe - Youtube](https://www.youtube.com/@AlexForsythe)
 
-**Others**
+**:book: Others**
  - https://unreal-garden.com/
  - https://ari.games/ (Ari Arnbjörnsson)
  - https://unrealdirective.com/
- - https://www.tomlooman.com/
+ - https://www.tomlooman.com/ (Tom Looman)
  - https://github.com/Allar/ue5-style-guide
  - https://cedric-neukirchen.net/
  - https://unrealartoptimization.github.io/book/
+ - https://wojtsterna.com/blog/
 
 # <img src="icons/UnityLogo.png" alt="unity_logo" width="64"/> Unity
 
-**Tutorials**
+**:book: Tutorials**
  - https://catlikecoding.com/unity/tutorials/
 
 # <img src="icons/256px-Godot_icon.svg.png" alt="godot_logo" width="64"/> Godot
 
-**YouTube channels**
+**:red_circle: YouTube channels**
  - [Heartbeast - YouTube](https://www.youtube.com/@uheartbeast)
  - [GDQuest - YouTube](https://www.youtube.com/@Gdquest/videos)
  - [Bitlytic - YouTube](https://www.youtube.com/@Bitlytic/videos)
@@ -45,11 +47,12 @@
  - [Slick Games - YouTube](https://www.youtube.com/@stingly)
  - [Brackeys - Youtube](https://www.youtube.com/user/Brackeys) (has a specific playlist for Godot)
 
-**Others**
+**:book: Others**
  - https://godotshaders.com/
  - https://catlikecoding.com/godot/
  - https://www.snopekgames.com/
  - https://kidscancode.org/godot_recipes/4.x/
+ - https://jettelly.com/store/the-godot-shaders-bible (to buy e-book)
 
 # :factory: Gamedev Industry
 
@@ -73,3 +76,8 @@
 **Others**
  - https://www.gamedeveloper.com/
  - https://www.gameindustrycareerguide.com/blog/
+
+# :star: Must see stuff
+
+**:red_circle: YouTube Videos**
+- [kishimisu - An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
