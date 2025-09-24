@@ -81,3 +81,4 @@
 
 **:red_circle: YouTube Videos**
 - [kishimisu - An introduction to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
+- [Aria - 100 Days To Make An Automation Sandbox Game | Pico 8 Devlog](https://www.youtube.com/watch?v=wUeVPwJ-WJg)
